@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rnadomingos
 - 👀 I’m interested in Technology
-- 🌱 I’m currently learning DevOps Culture
+- 🌱 I’m currently learning DevOps
 - 📫 How to reach me rna.domingos@hotmail.com
 
 <!---
